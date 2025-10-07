@@ -3,6 +3,8 @@ config.env
 .env
 .env.local
 .env.*.local
+.mcp.json
+
 
 # OS generated files
 .DS_Store
